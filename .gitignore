@@ -1,0 +1,29 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+
+# Raw source documents
+data/raw/**/*.pdf
+data/raw/**/*.xlsx
+data/raw/**/*.xls
+data/raw/**/*.csv
+
+# Processed/generated data
+data/processed/*.csv
+data/processed/*.xlsx
+
+# Output files
+outputs/excel/*.xlsx
+outputs/memos/*.docx
+outputs/memos/*.pdf
+outputs/charts/*.png
+outputs/charts/*.jpg
+outputs/linkedin/*.md
+
+# Temporary files
+*.tmp
+*.log
