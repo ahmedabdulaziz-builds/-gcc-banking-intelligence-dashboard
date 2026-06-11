@@ -1,0 +1,31 @@
+{
+  "generic_bank": {
+    "bank_aliases": [],
+    "preferred_phrases": ["financial highlights", "key financial highlights", "statement of income", "statement of financial position"],
+    "preferred_document_types": ["investor presentation", "financial results / financial statements"],
+    "amount_currency": null
+  },
+  "QNB": {
+    "bank_aliases": ["qnb", "qatar national bank"],
+    "preferred_phrases": ["financial highlights", "as at 31 march 2026", "income statement breakdown", "asset quality analysis", "capital analysis", "funding analysis", "cost of risk for lending", "interim consolidated statement of income", "statement of financial position"],
+    "preferred_document_types": ["investor presentation", "financial results / financial statements"],
+    "amount_currency": "QAR",
+    "group_phrases": ["qnb group", "qnb group financials"],
+    "subsidiary_phrases": ["qnb egypt", "qnb turkiye", "enpara bank"],
+    "quarterly_exclude_document_types": ["annual report"]
+  },
+  "FAB": {
+    "bank_aliases": ["fab", "first abu dhabi bank"],
+    "preferred_phrases": ["financial highlights", "key performance indicators", "income statement", "balance sheet"],
+    "preferred_document_types": ["investor presentation", "financial results / financial statements"],
+    "amount_currency": "AED",
+    "quarterly_exclude_document_types": ["annual report"]
+  },
+  "ENBD": {
+    "bank_aliases": ["enbd", "emirates nbd"],
+    "preferred_phrases": ["financial highlights", "key performance indicators", "income statement", "balance sheet"],
+    "preferred_document_types": ["investor presentation", "financial results / financial statements"],
+    "amount_currency": "AED",
+    "quarterly_exclude_document_types": ["annual report"]
+  }
+}
