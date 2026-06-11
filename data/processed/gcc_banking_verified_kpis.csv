@@ -1,0 +1,55 @@
+Bank,Period,Metric,Value,Unit,Source Document,Page/Section,Extracted or Calculated,Verification Status,Notes
+FAB,Q1 2026,Net Profit,5.011,AED bn,FAB_June_2026_Investor_Presentation.pdf,p.24 / p.39,Extracted from source,Source extracted - needs final review,Net Profit after tax
+FAB,Q1 2026,Operating Income,9.335,AED bn,FAB_June_2026_Investor_Presentation.pdf,p.24 / p.39,Extracted from source,Source extracted - needs final review,Also referred to as revenue in highlights
+FAB,Q1 2026,Net Interest Income,5.612,AED bn,FAB_June_2026_Investor_Presentation.pdf,p.24 / p.39,Extracted from source,Source extracted - needs final review,
+FAB,Q1 2026,Non-Interest Income,3.723,AED bn,FAB_June_2026_Investor_Presentation.pdf,p.24 / p.39,Extracted from source,Source extracted - needs final review,
+FAB,Q1 2026,Total Assets,1491.0,AED bn,FAB_June_2026_Investor_Presentation.pdf,p.24 / p.39,Extracted from source,Source extracted - needs final review,
+FAB,Q1 2026,Loans / Advances,668.0,AED bn,FAB_June_2026_Investor_Presentation.pdf,p.24 / p.39,Extracted from source,Source extracted - needs final review,"Loans, advances and Islamic financing net"
+FAB,Q1 2026,Gross Loans,685.0,AED bn,FAB_June_2026_Investor_Presentation.pdf,p.29 / p.41,Extracted from source,Source extracted - needs final review,Used for loan book comparison
+FAB,Q1 2026,Customer Deposits,871.0,AED bn,FAB_June_2026_Investor_Presentation.pdf,p.24 / p.39,Extracted from source,Source extracted - needs final review,
+FAB,Q1 2026,Net Interest Margin,1.95,%,FAB_June_2026_Investor_Presentation.pdf,p.24 / p.39,Extracted from source,Source extracted - needs final review,
+FAB,Q1 2026,Cost-to-Income Ratio,22.6,%,FAB_June_2026_Investor_Presentation.pdf,p.24 / p.39,Extracted from source,Source extracted - needs final review,Lower is better
+FAB,Q1 2026,NPL Ratio,2.1,%,FAB_June_2026_Investor_Presentation.pdf,p.22 / p.24 / p.39,Extracted from source,Source extracted - needs final review,Non-performing loans ratio
+FAB,Q1 2026,Coverage Ratio,110.0,%,FAB_June_2026_Investor_Presentation.pdf,p.22 / p.24 / p.39,Extracted from source,Source extracted - needs final review,Provision coverage ratio
+FAB,Q1 2026,Liquidity Coverage Ratio,145.0,%,FAB_June_2026_Investor_Presentation.pdf,p.22 / p.24 / p.39,Extracted from source,Source extracted - needs final review,LCR
+FAB,Q1 2026,RoTE,17.8,%,FAB_June_2026_Investor_Presentation.pdf,p.21 / p.24 / p.39,Extracted from source,Source extracted - needs final review,Return on tangible equity
+FAB,Q1 2026,CET1 Ratio,12.8,%,FAB_June_2026_Investor_Presentation.pdf,p.22 / p.24 / p.39,Extracted from source,Source extracted - needs final review,
+FAB,Q1 2026,Capital Adequacy Ratio,15.8,%,FAB_June_2026_Investor_Presentation.pdf,p.32 / p.39,Extracted from source,Source extracted - needs final review,CAR
+FAB,Q1 2026,Loan Growth,8.0,% YTD,FAB_June_2026_Investor_Presentation.pdf,p.21 / p.24 / p.35 / p.41,Extracted from source,Source extracted - needs final review,
+FAB,Q1 2026,Deposit Growth,4.0,% YTD,FAB_June_2026_Investor_Presentation.pdf,p.21 / p.24 / p.42,Extracted from source,Source extracted - needs final review,
+FAB,Q1 2026,Cost of Risk,67.0,bps,FAB_June_2026_Investor_Presentation.pdf,p.24 / p.31 / p.39,Extracted from source,Source extracted - needs final review,
+ENBD,Q1 2026,Net Profit,6.4,AED bn,ENBD_Q1_2026_Investor_Presentation.pdf,p.3 / p.4 / p.14,Extracted from source,Source extracted - needs final review,Presentation labels this as Profit
+ENBD,Q1 2026,Operating Income,14.4,AED bn,ENBD_Q1_2026_Investor_Presentation.pdf,p.3 / p.4 / p.14,Extracted from source,Source extracted - needs final review,Presentation labels this as Income / Total income
+ENBD,Q1 2026,Net Interest Income,9.5,AED bn,ENBD_Q1_2026_Investor_Presentation.pdf,p.4 / p.14,Extracted from source,Source extracted - needs final review,
+ENBD,Q1 2026,Non-Interest Income,4.9,AED bn,ENBD_Q1_2026_Investor_Presentation.pdf,p.4 / p.6 / p.14,Extracted from source,Source extracted - needs final review,Presentation calls this non-funded income
+ENBD,Q1 2026,Total Assets,1217.0,AED bn,ENBD_Q1_2026_Investor_Presentation.pdf,p.4 / p.14,Extracted from source,Source extracted - needs final review,
+ENBD,Q1 2026,Gross Loans,703.0,AED bn,ENBD_Q1_2026_Investor_Presentation.pdf,p.4 / p.7 / p.14,Extracted from source,Source extracted - needs final review,Total gross loans
+ENBD,Q1 2026,Customer Deposits,830.0,AED bn,ENBD_Q1_2026_Investor_Presentation.pdf,p.4 / p.7 / p.14,Extracted from source,Source extracted - needs final review,Presentation labels this Deposits
+ENBD,Q1 2026,Net Interest Margin,3.35,%,ENBD_Q1_2026_Investor_Presentation.pdf,p.3 / p.4 / p.5 / p.14,Extracted from source,Source extracted - needs final review,NIM
+ENBD,Q1 2026,Cost-to-Income Ratio,29.2,%,ENBD_Q1_2026_Investor_Presentation.pdf,p.3 / p.4 / p.9 / p.14,Extracted from source,Source extracted - needs final review,Lower is better
+ENBD,Q1 2026,NPL Ratio,2.3,%,ENBD_Q1_2026_Investor_Presentation.pdf,p.3 / p.4 / p.8,Extracted from source,Source extracted - needs final review,
+ENBD,Q1 2026,Coverage Ratio,157.0,%,ENBD_Q1_2026_Investor_Presentation.pdf,p.3 / p.8,Extracted from source,Source extracted - needs final review,NPL cover / Group coverage ratio
+ENBD,Q1 2026,Liquidity Coverage Ratio,141.0,%,ENBD_Q1_2026_Investor_Presentation.pdf,p.4 / p.10,Extracted from source,Source extracted - needs final review,LCR
+ENBD,Q1 2026,Advances-to-Deposit Ratio,82.0,%,ENBD_Q1_2026_Investor_Presentation.pdf,p.10,Extracted from source,Source extracted - needs final review,ADR
+ENBD,Q1 2026,CET1 Ratio,14.2,%,ENBD_Q1_2026_Investor_Presentation.pdf,p.3 / p.4 / p.11,Extracted from source,Source extracted - needs final review,
+ENBD,Q1 2026,Capital Adequacy Ratio,16.4,%,ENBD_Q1_2026_Investor_Presentation.pdf,p.11,Extracted from source,Source extracted - needs final review,Total capital ratio
+ENBD,Q1 2026,Loan Growth,7.0,% YTD,ENBD_Q1_2026_Investor_Presentation.pdf,p.3 / p.4 / p.7,Extracted from source,Source extracted - needs final review,Gross loan growth
+ENBD,Q1 2026,Deposit Growth,6.0,% YTD,ENBD_Q1_2026_Investor_Presentation.pdf,p.4 / p.7,Extracted from source,Source extracted - needs final review,
+ENBD,Q1 2026,Cost of Risk,50.0,bps,ENBD_Q1_2026_Investor_Presentation.pdf,p.3 / p.4 / p.8 / p.14,Extracted from source,Source extracted - needs final review,
+QNB,Q1 2026,Net Profit,1.19,USD bn,QNB_Q1_2026_Investor_Presentation.pdf,p.11,Extracted and standardized from source,Manual verification required,Draft only; High confidence; candidate score 100/100. Converted 1.19 USD bn to USD bn by dividing by USD/USD 1. Confirm against the cited source page.
+QNB,Q1 2026,Operating Income,3.32,USD bn,QNB_Q1_2026_Investor_Presentation.pdf,p.16,Extracted and standardized from source,Manual verification required,Draft only; Medium confidence; candidate score 100/100. Converted 3.32 USD bn to USD bn by dividing by USD/USD 1. Confirm against the cited source page.
+QNB,Q1 2026,Net Interest Income,2.59,USD bn,QNB_Q1_2026_Investor_Presentation.pdf,p.16,Extracted and standardized from source,Manual verification required,Draft only; Medium confidence; candidate score 100/100. Converted 2.59 USD bn to USD bn by dividing by USD/USD 1. Confirm against the cited source page.
+QNB,Q1 2026,Total Assets,387.2,USD bn,QNB_Q1_2026_Investor_Presentation.pdf,p.11,Extracted and standardized from source,Manual verification required,Draft only; High confidence; candidate score 98/100. Converted 387.2 USD bn to USD bn by dividing by USD/USD 1. Confirm against the cited source page.
+QNB,Q1 2026,Loans / Advances,282.3,USD bn,QNB_Q1_2026_Investor_Presentation.pdf,p.11,Extracted and standardized from source,Manual verification required,Draft only; High confidence; candidate score 98/100. Converted 282.3 USD bn to USD bn by dividing by USD/USD 1. Confirm against the cited source page.
+QNB,Q1 2026,Customer Deposits,267.5,USD bn,QNB_Q1_2026_Investor_Presentation.pdf,p.11,Extracted and standardized from source,Manual verification required,Draft only; High confidence; candidate score 98/100. Converted 267.5 USD bn to USD bn by dividing by USD/USD 1. Confirm against the cited source page.
+QNB,Q1 2026,Net Interest Margin,2.65,%,QNB_Q1_2026_Investor_Presentation.pdf,p.11,Extracted from source,Manual verification required,Draft only; High confidence; candidate score 100/100.  Confirm against the cited source page.
+QNB,Q1 2026,Cost-to-Income Ratio,24.1,%,QNB_Q1_2026_Investor_Presentation.pdf,p.16,Extracted from source,Manual verification required,Draft only; High confidence; candidate score 100/100.  Confirm against the cited source page.
+QNB,Q1 2026,NPL Ratio,2.7,%,QNB_Q1_2026_Investor_Presentation.pdf,p.11,Extracted from source,Manual verification required,Draft only; High confidence; candidate score 100/100.  Confirm against the cited source page.
+QNB,Q1 2026,Coverage Ratio,100.0,%,QNB_Q1_2026_Investor_Presentation.pdf,p.11,Extracted from source,Manual verification required,Draft only; High confidence; candidate score 100/100.  Confirm against the cited source page.
+QNB,Q1 2026,Liquidity Coverage Ratio,147.0,%,QNB_Q1_2026_Investor_Presentation.pdf,p.22,Extracted from source,Manual verification required,Draft only; Medium confidence; candidate score 73/100.  Confirm against the cited source page.
+QNB,Q1 2026,Loan-to-Deposit Ratio,98.0,%,QNB_Q1_2026_Investor_Presentation.pdf,p.11,Extracted from source,Manual verification required,Draft only; High confidence; candidate score 98/100.  Confirm against the cited source page.
+QNB,Q1 2026,CET1 Ratio,15.2,%,QNB_Q1_2026_Financial_Results.pdf,p.16,Extracted from source,Manual verification required,Draft only; High confidence; candidate score 92/100.  Confirm against the cited source page.
+QNB,Q1 2026,Capital Adequacy Ratio,19.4,%,QNB_Q1_2026_Investor_Presentation.pdf,p.11,Extracted from source,Manual verification required,Draft only; High confidence; candidate score 100/100.  Confirm against the cited source page.
+QNB,Q1 2026,Loan Growth,8.0,%,QNB_Q1_2026_Investor_Presentation.pdf,p.11,Extracted from source,Manual verification required,Draft only; High confidence; candidate score 98/100.  Confirm against the cited source page.
+QNB,Q1 2026,Deposit Growth,5.0,%,QNB_Q1_2026_Investor_Presentation.pdf,p.11,Extracted from source,Manual verification required,Draft only; High confidence; candidate score 98/100.  Confirm against the cited source page.
+QNB,Q1 2026,Cost of Risk,78.0,bps,QNB_Q1_2026_Investor_Presentation.pdf,p.25,Extracted from source,Manual verification required,Draft only; High confidence; candidate score 88/100.  Confirm against the cited source page.
