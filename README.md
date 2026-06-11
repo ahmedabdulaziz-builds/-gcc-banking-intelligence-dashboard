@@ -20,19 +20,19 @@ This project was built as a finance portfolio project to demonstrate practical s
 
 ### Executive Dashboard
 
-![Executive Dashboard](screenshots/01_executive_dashboard.png)
+![Executive Dashboard](screenshots/01_executive_dashboard.jpg)
 
 ### KPI Comparison
 
-![KPI Comparison](screenshots/02_kpi_comparison.png)
+![KPI Comparison](screenshots/02_kpi_comparison.jpg)
 
 ### Publication Readiness
 
-![Publication Readiness](screenshots/03_publication_readiness.png)
+![Publication Readiness](screenshots/03_publication_readiness.jpg)
 
 ### Source Log
 
-![Source Log](screenshots/04_source_log.png)
+![Source Log](screenshots/04_source_log.jpg)
 
 ---
 
