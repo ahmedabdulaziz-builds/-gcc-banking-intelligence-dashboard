@@ -27,3 +27,17 @@ outputs/linkedin/*.md
 # Temporary files
 *.tmp
 *.log
+
+# Raw/source PDFs and temporary uploads
+data/raw/
+data/temp_uploads/
+data/processed/backups/
+
+# Large/generated extraction files
+data/processed/gcc_banking_extracted_text.csv
+data/processed/gcc_banking_kpi_candidates.csv
+data/processed/gcc_banking_verified_kpis_template.csv
+data/processed/QNB_kpi_draft_for_review.csv
+
+# macOS
+.DS_Store
